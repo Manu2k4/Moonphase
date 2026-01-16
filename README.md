@@ -1,3 +1,3 @@
 # Moonphase
 calculateMoonPhase 
-manu2k4.github.io/Moonphase
+[MoonPhase Calculator](manu2k4.github.io/Moonphase)
